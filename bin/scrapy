@@ -1,0 +1,4 @@
+#!/root/PYDEV/PSIDER/bin/python
+
+from scrapy.cmdline import execute
+execute()
